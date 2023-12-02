@@ -1,0 +1,9 @@
+[submodule "eyepark-arduino"]
+	path = eyepark-arduino
+	url = git@github.com:devangguptaa/eyepark-arduino.git
+[submodule "eyepark"]
+	path = eyepark
+	url = git@github.com:karansbisw/eyepark.git
+[submodule "eyepark-backend"]
+	path = eyepark-backend
+	url = git@github.com:devangguptaa/eyepark-backend.git
